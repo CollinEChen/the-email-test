@@ -352,7 +352,7 @@ Use this EXACT structure:
 
   const getVerdictConfig = (verdict) => {
     const configs = {
-      CALENDAR_CRIME: { color: 'verdict-crime', icon: '☠', label: 'Calendar Crime' },
+      CALENDAR_CRIME: { color: 'verdict-crime', icon: '☠', label: 'Calendar Crime, don\'t even email' },
       EMAIL: { color: 'verdict-email', icon: '📧', label: "Should've Been an Email" },
       RESTRUCTURE: { color: 'verdict-restructure', icon: '⚠', label: 'Needs Restructuring' },
       WORTH_IT: { color: 'verdict-worthit', icon: '✅', label: 'Worth Having' }
